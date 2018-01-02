@@ -1,0 +1,8 @@
+
+install python 							- python.org 2.7
+idle environment 						- print to screen
+comments 								- #comment
+variables 								- name = value
+strings 								- \n (new line)
+										- \t (tab)
+integers – floats – arithmetic operations
